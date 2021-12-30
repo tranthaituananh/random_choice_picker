@@ -55,3 +55,11 @@ textarea:focus {
 .tag.highlight {
   background-color: aqua;
 }
+
+.fa {
+    color: white;
+    border-radius: 10px;
+    margin: 0 10px 10px 0;
+    font-size: 40px;
+    display: inline-block;
+}
